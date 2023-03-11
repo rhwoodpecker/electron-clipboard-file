@@ -1,0 +1,20 @@
+{
+  "name": "electron-clipboard-file",
+  "version": "1.1.0",
+  "author": "",
+  "description": "A native addon for Electron that copies a file to the clipboard in macOs.",
+  "keywords": ["electron", "addon", "clipboard", "file"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhwoodpecker/electron-clipboard-file.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "node-addon-api": "^4.2.0",
+    "node-gyp": "9.0.0"
+  }
+}
