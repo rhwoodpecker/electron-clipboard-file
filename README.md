@@ -10,6 +10,8 @@ copyFileToClipboard('User/Renhao/Desktop/hello.txt')
 ```
 
 ## Props
+copyFileToClipboard(filePath)
+
 | 名称     | 说明                 | 类型                                   | 是否必选 |
 | -------- | -------------------- | -------------------------------------- | -------- |
 | filePath | 要拷贝的文件完整路径 | `string`                               | 是       |
